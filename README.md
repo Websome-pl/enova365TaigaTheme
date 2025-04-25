@@ -1,6 +1,6 @@
 Guide to install theme Taiga for enova365 version 2504.1.1
 
-First these files need to be downloaded and put in this enova365 directory: Soneta.Products.Web.Standard\wwwroot-Standard\css\palettes
+First [these files](https://github.com/Websome-pl/CustomTaigaThemeEnova365Websome/tree/main/TaigaTheme) need to be downloaded and put in this enova365 directory: Soneta.Products.Web.Standard\wwwroot-Standard\css\palettes
 
 Secondly in this directory: C:\Program Files (x86)\Soneta\Soneta.Standard 2504.1.1\Soneta.Products.Web.Standard (or any other directory in which enova365Multi is installed) file appsettings.json needs to be modified:
 
