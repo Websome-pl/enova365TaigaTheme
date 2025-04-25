@@ -1,4 +1,4 @@
-Taiga theme installation guide for enova365 Web version 2504.1.1
+### Taiga theme installation guide for enova365 Web version 2504.1.1
 
 First [these files](https://github.com/Websome-pl/CustomTaigaThemeEnova365Websome/tree/main/TaigaTheme) need to be downloaded and put in this enova365 directory: Soneta.Products.Web.Standard\wwwroot-Standard\css\palettes
 
