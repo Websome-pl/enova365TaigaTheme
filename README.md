@@ -6,7 +6,7 @@ Secondly in this directory: C:\Program Files (x86)\Soneta\Soneta.Standard 2504.1
 
 ```
 "DefaultThemes": {
-        "Default": "Base",
+      "Default": "Base",
 	      "TEST2504": "Taiga"     <-    Add this if database name is TEST2504, replace with actual database name if needed
       },
       "Themes": {
