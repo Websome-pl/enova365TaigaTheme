@@ -1,8 +1,8 @@
-Guide to install theme Taiga for enova365 version 2504.1.1
+Taiga theme installation guide for enova365 Web version 2504.1.1
 
 First [these files](https://github.com/Websome-pl/CustomTaigaThemeEnova365Websome/tree/main/TaigaTheme) need to be downloaded and put in this enova365 directory: Soneta.Products.Web.Standard\wwwroot-Standard\css\palettes
 
-Secondly in this directory: C:\Program Files (x86)\Soneta\Soneta.Standard 2504.1.1\Soneta.Products.Web.Standard (or any other directory in which enova365Multi is installed) file appsettings.json needs to be modified:
+Secondly in this directory: Soneta.Products.Web.Standard file appsettings.json needs to be modified:
 
 ```
 "DefaultThemes": {
@@ -33,6 +33,8 @@ Secondly in this directory: C:\Program Files (x86)\Soneta\Soneta.Standard 2504.1
     },
 ```
 File needs to be saved and services restarted.
+
+Soneta.Products.Web.Standard is usually located on server wherever enova365 Multi is installed, alongside Soneta.Products.Server.Standard.
 
 Result should look like this:
 
