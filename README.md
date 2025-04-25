@@ -44,4 +44,11 @@ Key features added:
 
 2. Visuals set to something in between dark and light theme
 
+More screenshots
+
+![image](https://github.com/user-attachments/assets/879623c5-c314-4432-b0b7-05f93e8a7654)
+
+![image](https://github.com/user-attachments/assets/18b16ebf-d949-4b7c-b606-077888ee6ea1)
+
+
 
