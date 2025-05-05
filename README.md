@@ -55,3 +55,7 @@ More screenshots
 Get enova365 [here](https://www.enova.pl/)
 
 **Repository created for educational purposes only**
+
+Example of a background
+
+![me](https://github.com/Websome-pl/enova365TaigaTheme/blob/main/TaigaGif.gif)
