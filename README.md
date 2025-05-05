@@ -61,5 +61,6 @@ Example of a background
 ![me](https://github.com/Websome-pl/enova365TaigaTheme/blob/main/TaigaGif.gif)
 
 **Background is not included in this instruction and used for educational purposes only**
+**Background source: https://vsgif.com/gif/3555500**
 
 Get instruction for making backgrounds in enova365 [here](https://www.enova.pl/)
