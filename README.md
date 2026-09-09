@@ -1,7 +1,10 @@
 ### Taiga theme installation guide for enova365 Web version 2604.3.3
 
-First [this zip](https://github.com/Websome-pl/enova365TaigaTheme/tree/enova365NewVersions/TaigaTheme) need to be downloaded, unpacked and put in this enova365 directory: Soneta.Products.Web.Standard\wwwroot-Standard\css
-You replace your current css folder with the new one from zip file.
+First, download [this ZIP file](https://github.com/Websome-pl/enova365TaigaTheme/tree/enova365NewVersions/TaigaTheme), unpack it, and place the extracted `css` folder in the following enova365 directory:
+
+`Soneta.Products.Web.Standard\wwwroot-Standard\css`
+
+Replace your current `css` folder with the one from the ZIP file.
 
 Folder needs to be copied in the directory and services restarted.
 
