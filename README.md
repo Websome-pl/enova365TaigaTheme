@@ -33,7 +33,7 @@ Get enova365 [here](https://www.enova.pl/)
 
 Example of a background
 
-![me](https://github.com/Websome-pl/enova365TaigaTheme/blob/main/TaigaGif.gif)
+![me](https://github.com/user-attachments/assets/8a13ff68-88e9-4238-b769-4fb059223915)
 
 **Background is not included in this instruction and used for educational purposes only**
 
