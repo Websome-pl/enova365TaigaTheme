@@ -3,7 +3,7 @@
 **⚠️ Important**
 
 Starting with enova365 version **2512.10.12**, this installation guide is no longer applicable.
-Please switch to the [**enova365NewVersions**]([https://github.com/username/repository/tree/enova365NewVersions](https://github.com/Websome-pl/enova365TaigaTheme/tree/enova365NewVersions)) branch to use the updated installation guide for newer versions of enova365.
+Please switch to the [**enova365NewVersions**](https://github.com/Websome-pl/enova365TaigaTheme/tree/enova365NewVersions) branch to use the updated installation guide for newer versions of enova365.
 
 If you are still using the old version, please proceed with the instructions below:
 First [these files](https://github.com/Websome-pl/CustomTaigaThemeEnova365Websome/tree/main/TaigaTheme) need to be downloaded and put in this enova365 directory: Soneta.Products.Web.Standard\wwwroot-Standard\css\palettes
