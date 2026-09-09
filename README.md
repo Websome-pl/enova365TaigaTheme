@@ -12,7 +12,8 @@ Soneta.Products.Web.Standard is usually located on server wherever enova365 Mult
 
 Result should look like this:
 
-![image](https://github.com/user-attachments/assets/63f23f72-ade2-4241-97c7-9e89b8f216dc)
+![image](https://github.com/user-attachments/assets/a3cdb25c-c004-4328-be76-ea12757ee0b0)
+
 
 Key features added:
 
