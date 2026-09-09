@@ -1,44 +1,19 @@
-### Taiga theme installation guide for enova365 Web version 2504.1.1
+### Taiga theme installation guide for enova365 Web version 2604.3.3
 
-First [these files](https://github.com/Websome-pl/CustomTaigaThemeEnova365Websome/tree/main/TaigaTheme) need to be downloaded and put in this enova365 directory: Soneta.Products.Web.Standard\wwwroot-Standard\css\palettes
+First, download [this ZIP file](https://github.com/Websome-pl/enova365TaigaTheme/tree/enova365NewVersions/TaigaTheme), unpack it, and place the extracted `css` folder in the following enova365 directory:
 
-Secondly in this directory: Soneta.Products.Web.Standard file appsettings.json needs to be modified:
+`Soneta.Products.Web.Standard\wwwroot-Standard`
 
-```
-"DefaultThemes": {
-      "Default": "Base",
-	      "TEST2504": "Taiga"     <-    Add this if database name is TEST2504, replace with actual database name if needed
-      },
-      "Themes": {
-        "Base": {
-          "Caption": "Podstawowy",
-          "DarkMode": false
-        },
-        "Dark": {
-          "Caption": "Tryb ciemny",
-          "DarkMode": true
-        },
-	      "Taiga": {     <-    Add this whole block for theme, e.g. Taiga
-          "Caption": "Taiga",
-          "DarkMode": true
-        }
-      },
-      "LogoSettings": {
-        "Default": {
-          "CustomLogo": "",
-          "CustomLogoLink": "",
-          "CustomMobileMenuBg": ""
-        }
-      }
-    },
-```
-File needs to be saved and services restarted.
+Replace your current `css` folder with the one from the ZIP file.
+
+Folder needs to be copied in the directory and services restarted.
 
 Soneta.Products.Web.Standard is usually located on server wherever enova365 Multi is installed, alongside Soneta.Products.Server.Standard.
 
 Result should look like this:
 
-![image](https://github.com/user-attachments/assets/63f23f72-ade2-4241-97c7-9e89b8f216dc)
+![image](https://github.com/user-attachments/assets/a3cdb25c-c004-4328-be76-ea12757ee0b0)
+
 
 Key features added:
 
@@ -48,9 +23,9 @@ Key features added:
 
 More screenshots
 
-![image](https://github.com/user-attachments/assets/879623c5-c314-4432-b0b7-05f93e8a7654)
+![image](https://github.com/user-attachments/assets/31c74a84-3b45-4100-a7ac-9a97aba701a4)
 
-![image](https://github.com/user-attachments/assets/18b16ebf-d949-4b7c-b606-077888ee6ea1)
+![image](https://github.com/user-attachments/assets/79bbd929-df23-4b37-b079-281d2d9929f4)
 
 Get enova365 [here](https://www.enova.pl/)
 
