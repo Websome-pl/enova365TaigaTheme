@@ -1,38 +1,9 @@
-### Taiga theme installation guide for enova365 Web version 2504.1.1
+### Taiga theme installation guide for enova365 Web version 2604.3.3
 
-First [these files](https://github.com/Websome-pl/CustomTaigaThemeEnova365Websome/tree/main/TaigaTheme) need to be downloaded and put in this enova365 directory: Soneta.Products.Web.Standard\wwwroot-Standard\css\palettes
+First [this zip](https://github.com/Websome-pl/CustomTaigaThemeEnova365Websome/tree/main/TaigaTheme) need to be downloaded, unpacked and put in this enova365 directory: Soneta.Products.Web.Standard\wwwroot-Standard\css
+You replace your current css folder with the new one from zip file.
 
-Secondly in this directory: Soneta.Products.Web.Standard file appsettings.json needs to be modified:
-
-```
-"DefaultThemes": {
-      "Default": "Base",
-	      "TEST2504": "Taiga"     <-    Add this if database name is TEST2504, replace with actual database name if needed
-      },
-      "Themes": {
-        "Base": {
-          "Caption": "Podstawowy",
-          "DarkMode": false
-        },
-        "Dark": {
-          "Caption": "Tryb ciemny",
-          "DarkMode": true
-        },
-	      "Taiga": {     <-    Add this whole block for theme, e.g. Taiga
-          "Caption": "Taiga",
-          "DarkMode": true
-        }
-      },
-      "LogoSettings": {
-        "Default": {
-          "CustomLogo": "",
-          "CustomLogoLink": "",
-          "CustomMobileMenuBg": ""
-        }
-      }
-    },
-```
-File needs to be saved and services restarted.
+Folder needs to be copied in the directory and services restarted.
 
 Soneta.Products.Web.Standard is usually located on server wherever enova365 Multi is installed, alongside Soneta.Products.Server.Standard.
 
