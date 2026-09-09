@@ -2,7 +2,7 @@
 
 First, download [this ZIP file](https://github.com/Websome-pl/enova365TaigaTheme/tree/enova365NewVersions/TaigaTheme), unpack it, and place the extracted `css` folder in the following enova365 directory:
 
-`Soneta.Products.Web.Standard\wwwroot-Standard\css`
+`Soneta.Products.Web.Standard\wwwroot-Standard`
 
 Replace your current `css` folder with the one from the ZIP file.
 
@@ -23,9 +23,9 @@ Key features added:
 
 More screenshots
 
-![image](https://github.com/user-attachments/assets/879623c5-c314-4432-b0b7-05f93e8a7654)
+![image](https://github.com/user-attachments/assets/31c74a84-3b45-4100-a7ac-9a97aba701a4)
 
-![image](https://github.com/user-attachments/assets/18b16ebf-d949-4b7c-b606-077888ee6ea1)
+![image](https://github.com/user-attachments/assets/79bbd929-df23-4b37-b079-281d2d9929f4)
 
 Get enova365 [here](https://www.enova.pl/)
 
