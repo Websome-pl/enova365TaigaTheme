@@ -1,4 +1,4 @@
-### Taiga theme installation guide for enova365 Web version 2504.1.1
+### Taiga theme installation guide for enova365 Web version 2512.9.11 or lower
 
 **⚠️ Important**
 
