@@ -1,4 +1,4 @@
-### Taiga theme installation guide for enova365 Web version 2604.3.3
+### Taiga theme installation guide for enova365 Web version 2512.10.12 or later
 
 First, download [this ZIP file](https://github.com/Websome-pl/enova365TaigaTheme/tree/enova365NewVersions/TaigaTheme), unpack it, and place the extracted `css` folder in the following enova365 directory:
 
